@@ -1,0 +1,17 @@
+.container{
+    padding-left: 2vw;
+    padding-right: 2vw;
+    position: relative;
+    text-align: center;
+    align-self: center;
+}
+
+.title{
+    color: midnightblue;
+}
+
+table{
+    position: relative;
+    text-align: center;
+    align-self: center;
+}
